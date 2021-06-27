@@ -1,7 +1,7 @@
 <h1 align="center">:airplane: Caravan</h1>
 <h3 align="center">Projeto final do curso de Bootstrap 4 da Origamid.</h3>
 <h4 align="center"> 
-	🚧  Projeto em andamento 🚀 🚧
+	🚧  Projeto concluído 🚀 🚧
 </h4>
 
 ## :computer: Sobre o projeto
